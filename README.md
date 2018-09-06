@@ -23,8 +23,9 @@ Data sources
 
 Methodology for Data retrieval/gathering
 
-  •	For this project study, we collected and compiled the recent crime reporting numbers available for the City of Austin on five major   
-  crimes which are: Aggravated assault, auto theft, homicide, robbery and theft.
+  •	For this project study, we collected and compiled the recent crime reporting numbers available for the City of Austin 
+  
+  on five major crimes which are: Aggravated assault, auto theft, homicide, robbery and theft.
   
   •	We also made use of the US census Bureau to get the population estimate for the respective years.
   
@@ -42,18 +43,23 @@ Data Clean-up or Wrangling
 
   •	 The data wrangling process was initiated by reading into the retrieved CSV files and converting them into data frames.
   
-  •	The basic cleanup process included dropping off unnecessary columns from the dataset, dropping rows with null values, reordering       
-  columns, changing the time format and aggregating similar crime types.
+  •	The basic cleanup process included dropping off unnecessary columns from the dataset, dropping rows with null values, 
+  
+  reordering columns, changing the time format and aggregating similar crime types.
 
 Data Visualizations
 
-  •	Pie charts were plotted for all three years (2014-2016) individually to display the break up of each crime percentage in Austin.
+  •	Pie charts were plotted for all three years (2014-2016) individually to display the break up of each crime percentage 
+  
+  in Austin.
   
   •	Line graph plotting of crime rates (per 100,000 inhabitants) for each month of the year(from 2014-2016) was performed. 
   
-  •	To make it easier to understand how the five crime types have changed over time in relation to each other, individual line plots for   
-  each offense type were created characterized by months of the year. These line graphs show the trending of specific crimes in the       
-  city of Austin from 2014 to 2016. 
+  •	To make it easier to understand how the five crime types have changed over time in relation to each other, individual 
+  
+  line plots for each offense type were created characterized by months of the year. These line graphs show the trending 
+  
+  of specific crimes in the city of Austin from 2014 to 2016. 
   
   •	The crime counts and rates represented on the graphs cover the period of 2014 to 2016.
   
