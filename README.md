@@ -12,8 +12,9 @@ Purpose of the study
 
 Data sources
 
-  •	Austin_Crime dataset was retrieved from the Kaggle website – csv format with 19121 kb of data and 159464 data entries – This had a      
-  lot of rows with missing data.
+  •	Austin_Crime dataset was retrieved from the Kaggle website – csv format with 19121 kb of data and 159464 data entries 
+  
+  – This had a lot of rows with missing data.
   
   •	Austin Crime Dataset 2015 from Data.Gov website – csv format with 7702 kb of data and 38573 data entries.
   
