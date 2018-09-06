@@ -1,6 +1,7 @@
 Purpose of the study
 
 The basic purpose of this study is to 
+
 •	Analyze data to identify trends in crime across the City of Austin over the years (from 2014 to 2016).
 •	To determine a comparison of the crime rate with respect to the area of occurrence (districts) and time of the year (months)
 •	To identify a particular crime type likeliest to occur at a certain season of the year.
